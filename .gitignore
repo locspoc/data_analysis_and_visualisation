@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Elections - Large File Error
+elections/Election_Donor_Data.csv
